@@ -10,3 +10,6 @@ This project implements a web app using Streamlit for chatting with pdf files us
   HUGGINGFACEHUB_API_TOKEN=token
 - Running the web app
   `streamlit run app.py`
+
+## Credits
+- following [this repo](https://github.com/alejandro-ao/ask-multiple-pdfs/blob/main/app.py)
